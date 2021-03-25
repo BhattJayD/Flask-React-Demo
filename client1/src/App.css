@@ -1,0 +1,17 @@
+a{
+  color: black  !important;
+}
+.search-card{
+  padding: 20px;
+  text-align: center !important;
+  max-width: 500px;
+  margin: 10px auto;
+}
+.nav{
+  margin: auto;
+  width: auto;
+}
+h5, h4
+{
+  display: inline;
+}
